@@ -4,4 +4,4 @@ RKS IN PYTHON
 
 RBF KERNEL IN MATLAB USING CVX
 
-The details regarding this work can be seen in the pdf file  and also elaborately explained in the shared ppt.
+The details regarding this work is elaborately explained in the shared ppt.
